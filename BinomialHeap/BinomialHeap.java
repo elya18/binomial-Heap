@@ -3,12 +3,6 @@
  *
  * An implementation of binomial heap over non-negative integers.
  */
-//username1 - elyaa
-//id1       - 205854540
-//name1     - Elya Avital
-//username2 - stavnacson
-//id2       - 318814829
-//name2    - Stav Nacson
 
 public class BinomialHeap 
 {
